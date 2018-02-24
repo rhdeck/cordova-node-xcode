@@ -2,10 +2,10 @@
   "author": "Apache Software Foundation",
   "name": "xcode",
   "description": "parser for xcodeproj/project.pbxproj files",
-  "version": "1.0.1-dev",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/apache/cordova-node-xcode.git"
+    "url": "https://github.com/rhdeck/cordova-node-xcode.git"
   },
   "engines": {
     "node": ">=0.6.7"
@@ -42,8 +42,7 @@
     },
     {
       "name": "Bob Easterday"
-    }
-
+    },
+    { "name": "Ray Deck" }
   ]
-
 }
