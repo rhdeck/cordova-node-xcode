@@ -2,7 +2,7 @@
   "author": "Ray Deck",
   "name": "@raydeck/xcode",
   "description": "parser for xcodeproj/project.pbxproj files",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/rhdeck/cordova-node-xcode.git"
