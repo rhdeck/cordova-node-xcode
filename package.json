@@ -1,6 +1,6 @@
 {
-  "author": "Apache Software Foundation",
-  "name": "xcode",
+  "author": "Ray Deck",
+  "name": "@raydeck/xcode",
   "description": "parser for xcodeproj/project.pbxproj files",
   "version": "2.2.0",
   "main": "index.js",
